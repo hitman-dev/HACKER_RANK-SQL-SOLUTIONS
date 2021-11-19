@@ -1,2 +1,2 @@
 # HACKER_RANK-SQL-SOLUTIONS
-Solutions of all SQL HackerRank SQL challenges using MySQL 
+Solutions of all HackerRank SQL challenges using MySQL 
