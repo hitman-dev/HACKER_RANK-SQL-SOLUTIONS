@@ -1,0 +1,7 @@
+/*
+Enter your query below.
+Please append a semicolon ";" at the end of the query
+*/
+SELECT si.roll_number , si.name
+FROM student_information si, faculty_information fi
+WHERE si.advisor = fi.employee_id AND (fi.gender = 'M' AND fi.salary > 15000 or fi.gender = 'F' AND fi.salary > 20000)
